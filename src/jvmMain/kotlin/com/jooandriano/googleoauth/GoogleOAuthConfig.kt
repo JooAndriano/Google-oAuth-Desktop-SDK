@@ -1,4 +1,4 @@
-package com.yourorg.googleoauth
+package com.jooandriano.googleoauth
 
 data class GoogleOAuthConfig(
     val clientId: String,

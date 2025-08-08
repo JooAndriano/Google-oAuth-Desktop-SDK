@@ -1,4 +1,4 @@
-package com.yourorg.googleoauth
+package com.jooandriano.googleoauth
 
 import java.nio.charset.StandardCharsets
 import java.security.MessageDigest

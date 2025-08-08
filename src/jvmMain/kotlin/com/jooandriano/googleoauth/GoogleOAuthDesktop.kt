@@ -1,4 +1,4 @@
-package com.yourorg.googleoauth
+package com.jooandriano.googleoauth
 
 import androidx.compose.foundation.BorderStroke
 import androidx.compose.foundation.Image
