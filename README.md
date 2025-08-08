@@ -32,11 +32,11 @@ Add the dependency (replace USER/REPO & version):
 
 ```kotlin
 dependencies {
-    implementation("com.github.JooAndriano:google-oauth-desktop-sdk:0.1.0")
+    implementation("com.github.JooAndriano:google-oauth-desktop-sdk:0.1.2")
 }
 ```
 
-> Make sure to push a tag `v0.1.0` in GitHub.
+> Make sure to push a tag `v0.1.2` in GitHub.
 
 ## Usage (Compose Desktop)
 
