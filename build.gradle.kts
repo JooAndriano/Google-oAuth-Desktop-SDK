@@ -8,9 +8,10 @@ group = "com.github.JooAndriano"
 version = "0.1.0"
 
 repositories {
-    mavenCentral()
     google()
+    mavenCentral()
     maven("https://maven.pkg.jetbrains.space/public/p/compose/dev")
+    maven("https://jitpack.io")
 }
 
 dependencies {
